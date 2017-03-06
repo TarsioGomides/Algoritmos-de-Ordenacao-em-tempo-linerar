@@ -3,7 +3,7 @@ public class BucketSort {
 		int maiorvalor = entrada[0];
     	
 		for(int j = 1 ; j < entrada.length;j++) {
-    		if(entrada[j] > maiorvalor)
+			if(entrada[j] > maiorvalor)
     	    maiorvalor = entrada[j];
     	}
 
