@@ -1,6 +1,3 @@
-# Algoritmos-de-Ordenacao-em-tempo-linerar
-Implementação do countingSort, bucketSort e radixSort
-
 # Algoritmos-de-Ordenacao-em-tempo-pseudo-linear (Counting Sort, Radix Sort e Bucket Sort)
 
 ### Para executar esses algoritmos, siga os seguintes passos:
